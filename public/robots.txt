@@ -1,14 +1,13 @@
-
 User-agent: *
-Allow: /
+Disallow: /search
 
 Sitemap: https://tempmessage.com/sitemap.xml
 
 User-agent: Googlebot
-Allow: /
+Disallow: /search
 
 User-agent: Bingbot
-Allow: /
+Disallow: /search
 
 User-agent: Twitterbot
 Allow: /
